@@ -4,8 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title> 게시글 쓰기  </title>
+<title> 게시글 쓰기입니  </title>
 <script type="text/javascript">
+
+
 function check() {
 		if (document.frm.title.value.length == 10) {
 			alert("제목을 입력하세요.");
