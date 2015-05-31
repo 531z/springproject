@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title> 게시글 쓰기입니  </title>
+<title> 게시글 쓰기  </title>
 <script type="text/javascript">
 
 
